@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+5+ years experience specializing in the full-stack development, devops, container orchestration, infrastructure automation, and computer hacking/security. Super nerd who loves Containers, Kubernetes, Golang, Rust, Vim, Linux and OS X and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
+
+- 🔭 I’m currently working on Conveyor which is Firebase like.
+- 🌱 I’m currently learning Domain Adaptation for Precision Agriculture in Computer Vision.
+
 <!--
 **yildizozan/yildizozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
