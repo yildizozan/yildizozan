@@ -2,7 +2,7 @@
 
 5+ years experience specializing in the full-stack development, devops, container orchestration, infrastructure automation, and computer vision. Super nerd who loves Containers, Kubernetes, Golang, Rust, Vim, Linux and OS X and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
-- 🔭 I’m currently working on [Gandalf](github.com/yildizozan/gandalf) that web application firewall.
+- 🔭 I’m currently working on [Gandalf](https://github.com/yildizozan/gandalf) that web application firewall.
 - 🔭 I’m currently working on [Zyx](github.com/yildizozan/zyx) that ball bounce and balance project.
 - 🔭 I’m currently working on [Conveyor](github.com/yildizozan/conveyor-cloud) that is *Firebase* like.
 - 🌱 I’m currently learning *Domain Adaptation* for [Precision Agriculture in Computer Vision](github.com/yildizozan/precision-agriculture-computer-vision).
