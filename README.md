@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-5+ years experience specializing in the full-stack development, devops, container orchestration, infrastructure automation, and computer vision. Super nerd who loves Containers, Kubernetes, Golang, Rust, Vim, Linux and OS X and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
+I'm a ardent engineer who 5+ years of experience specializing in full-stack development, DevOps, container orchestration, infrastructure automation, and computer hacking/security. A super nerd who loves Containers, Kubernetes, Golang, Rust, Vim, Linux(especially Debian) and OS X and enjoys customizing all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises. I love working with enthusiastic people on projects that matter, solve problems, learn and discuss interesting topics and share know-how.
 
-- 🔭 I’m currently working on [Gandalf](https://github.com/yildizozan/gandalf) that web application firewall.
-- 🔭 I’m currently working on [Zyx](https://github.com/yildizozan/zyx) that ball bounce and balance project.
-- 🔭 I’m currently working on [Conveyor](https://github.com/yildizozan/conveyor-cloud) that is *Firebase* like.
+- 🔭 I’m currently working on [Gandalf](https://github.com/yildizozan/gandalf) that web application firewall. ✔️
+- 🔭 I’m currently working on [Zyx](https://github.com/yildizozan/zyx) that ball bounce and balance project. ✔️
+- 🔭 I’m currently working on [Conveyor](https://github.com/yildizozan/conveyor-cloud) that is *Firebase* like. ✔️
 - 🌱 I’m currently learning *Domain Adaptation* for [Precision Agriculture in Computer Vision](https://github.com/yildizozan/precision-agriculture-computer-vision).
 
 <!--
