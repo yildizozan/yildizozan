@@ -7,6 +7,8 @@ I'm a ardent engineer who 5+ years of experience specializing in full-stack deve
 - 🔭 I’m currently working on [Conveyor](https://github.com/yildizozan/conveyor-cloud) that is *Firebase* like. ✔️
 - 🌱 I’m currently learning *Domain Adaptation* for [Precision Agriculture in Computer Vision](https://github.com/yildizozan/precision-agriculture-computer-vision).
 
+![Ozan's github stats](https://github-readme-stats.vercel.app/api/?username=yildizozan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 <!--
 **yildizozan/yildizozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
