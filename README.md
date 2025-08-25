@@ -1,20 +1,14 @@
-### Hi there 👋
+Hi, I'm [Adınız] 👋
 
-I'm a ardent engineer who 5+ years of experience specializing in full-stack development, DevOps, container orchestration, infrastructure automation, and computer hacking/security. A super nerd who loves Containers, Kubernetes, Golang, Rust, Vim, Linux(especially Debian) and OS X and enjoys customizing all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises. I love working with enthusiastic people on projects that matter, solve problems, learn and discuss interesting topics and share know-how.
+A passionate Full-stack & DevOps Engineer with a love for solving complex problems and building efficient systems.
 
-![Ozan's github stats](https://github-readme-stats.vercel.app/api/?username=yildizozan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+    🚀 Experience: 5+ years in the industry, specializing in full-stack development, DevOps, and cybersecurity.
 
-<!--
-**yildizozan/yildizozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🔧 Core Skills: Container Orchestration (Kubernetes), Infrastructure Automation, and System Architecture.
 
-Here are some ideas to get you started:
+    💻 Technologies I Love: Go, Kubernetes, Loki, Rust, JavaScript Containers, Vim, Linux (especially Debian based).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    💡 Interests: Crafting elegant solutions, optimizing development environments, and continuous learning.
+
+    🤝 Collaboration: Enthusiastic about sharing knowledge and working on meaningful projects with passionate teams.
+    
